@@ -80,7 +80,7 @@ def yearClassification(hrs):
         classification_of_student = 'Senior'
     return classification_of_student
 
-# this method is really restricted to use. this needs to change
+# this method is really restricted to use. this requires some changes
 def classificationCut(s1, s2):
     """Based on classification of the student, this method cuts some classes
     s1: classes taken, s2: classes you can take"""
