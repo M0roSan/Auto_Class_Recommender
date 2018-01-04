@@ -18,5 +18,10 @@ Getting Started
 **Authors**    
 - Masahiro Yoshida   
 ---------------------------
+*Note*          
+- I learned Data Structure and Algorithm myself over winter break, 2017-2018, and applied graph theory to the program.   
+- I am going to take the class in Spring 2018. Therefore, this program may be enriched and sharpen better after the semester, as such applying weighted edges to give us best option, etc.    
+- Also, I am thinking of coloring the degree plan to have better visualization. For example, classes you have taken are colored yellow, and classes you can take are blue. I am currently working on this plus algorithm for corequisite. 
+------------------------------------ 
 Last update: 1/4/18   
 In this program, AutoClass_vol1.1, corequisite isn't cosidered yet. 
