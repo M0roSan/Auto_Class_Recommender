@@ -1,6 +1,6 @@
 Auto_Class_Recommender
 ===============================
-This program gives classes you can take based on classes you have taken by selecting checkboxes in UI.    
+This program gives classes you can take based on classes you have taken by selecting checkboxes in Tkinter UI.    
 This time, I use a degree plan for Software engineering at The University of Texas at Dallas.
 The degree plan can be refered in docs.
 
