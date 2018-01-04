@@ -6,7 +6,7 @@ The degree plan can be refered in docs.
 
 Getting Started
 -------------------------------
-**Prerequiisites**         
+**Prerequisites**         
 - Python3.6
 - NetworkX packege
 ----------------------------
@@ -24,4 +24,4 @@ Getting Started
 - Also, I am thinking of coloring the degree plan to have better visualization. For example, classes you have taken are colored yellow, and classes you can take are blue. I am currently working on this plus algorithm for corequisite. 
 ------------------------------------ 
 Last update: 1/4/18   
-In this program, AutoClass_vol1.1, corequisite isn't cosidered yet. 
+In this program, AutoClass_vol1.1, corequisites are not cosidered yet. 
