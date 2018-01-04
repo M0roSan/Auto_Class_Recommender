@@ -8,7 +8,7 @@ Getting Started
 -------------------------------
 **Prerequiisites**         
 - Python3.6
-- NetworkX module
+- NetworkX packege
 ----------------------------
 **Running the tests**    
 - By clicking option menu, Select one domain as default, It gives you choices of domain. Once selected and clicked 'Add guided electives to the list', it will add classes corresponding to the chosen domain on display.   
@@ -18,5 +18,5 @@ Getting Started
 **Authors**    
 - Masahiro Yoshida   
 ---------------------------
-Last update: 1/4/18
+Last update: 1/4/18   
 In this program, corequisite isn't cosidered yet. 
