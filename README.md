@@ -19,4 +19,4 @@ Getting Started
 - Masahiro Yoshida   
 ---------------------------
 Last update: 1/4/18   
-In this program, corequisite isn't cosidered yet. 
+In this program, AutoClass_vol1.1, corequisite isn't cosidered yet. 
