@@ -8,7 +8,8 @@ Getting Started
 -------------------------------
 **Prerequisites**         
 - Python3.6
-- NetworkX packege
+- tkinter package
+- NetworkX package
 ----------------------------
 **Running the tests**    
 - By clicking option menu, Select one domain as default, It gives you choices of domain. Once selected and clicked 'Add guided electives to the list', it will add classes corresponding to the chosen domain on display.   
